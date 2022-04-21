@@ -1,0 +1,1 @@
+# Redirects popp.lv to ziedunplaukst.lv
